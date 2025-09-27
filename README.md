@@ -1,5 +1,5 @@
 # localfileuploader
-a onedrive like but opensource free and simple to edit and security to the max ! 1.0 release  09/14/2025  8:00 PM reported to the 09/22/2025
+a onedrive like but opensource free and simple to edit and security to the max ! 1.1 release in less than 10 years(not sure)
 
 there will be bugs (I know so be patient or talk to me by discord "caperuisseau") 
 
